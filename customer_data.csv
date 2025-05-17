@@ -1,0 +1,7 @@
+customer_id,name,age,gender,purchase_amount,category
+1,Alice,25,Female,50.5,Clothing
+2,Bob,30,Male,75.0,Electronics
+3,Charlie,22,Male,30.0,Books
+4,Diana,35,Female,120.0,Clothing
+5,Emma,28,Female,65.5,Electronics
+6,Frank,40,Male,90.0,Books
